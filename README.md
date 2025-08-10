@@ -1,7 +1,3 @@
-Here’s a polished GitHub README description for your bot:
-
----
-
 # PotBot – Feature-Packed Discord Server Manager 🤖
 
 **PotBot** is a powerful, all-in-one Discord bot designed to keep your community active, informed, and engaged. It combines **XP & leveling systems**, **voice activity tracking**, **daily statistics**, **weather lookups**, **event announcements**, and **moderation tools**—all with persistent data saving.
@@ -101,7 +97,3 @@ Here’s a polished GitHub README description for your bot:
 ## 📜 License
 
 This project is open-source under the MIT License.
-
----
-
-If you want, I can also make you a **shorter GitHub-friendly tagline** that grabs attention right at the top. That would make the README pop even more.
